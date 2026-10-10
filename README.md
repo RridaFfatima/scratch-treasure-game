@@ -1,5 +1,5 @@
 # Cat Treasure Hunt 🎮
-
+[Cat Treasure Hunt](https://scratch.mit.edu/projects/1390298246)\
 A Scratch game where the player controls a cat, collects gems, avoids a ghost, and unlocks a treasure.
 
 ## Features
